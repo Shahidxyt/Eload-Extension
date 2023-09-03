@@ -1,7 +1,8 @@
 # E-load - Simplify Load Booking on One.Dat
 
 
-![eload logo small](https://github.com/Shahidxyt/Eload-Extension/assets/115526103/bc20794b-429e-476e-ac84-ef3295184568)
+![eload logo green2](https://github.com/Shahidxyt/Eload-Extension/assets/115526103/87b6afbd-3e61-4f52-bf42-ec948949734f)
+
 
 
 "Book more loads!"
